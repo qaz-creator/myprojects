@@ -130,14 +130,31 @@ const menu = [
   },
   {
     id: 7,
-    title:'Image Board',
+    title: 'Image Board',
     category: 'Full Stack',
-    img:'./images/7.png',
-    desc:'MERN',
-    link:'https://insblog.herokuapp.com/signin',
-    github:'https://github.com/qaz-creator/imageBoard'
-
-  }
+    img: './images/7.png',
+    desc: 'MERN',
+    link: 'https://insblog.herokuapp.com/signin',
+    github: 'https://github.com/qaz-creator/imageBoard',
+  },
+  {
+    id: 8,
+    title: 'Simple Piano',
+    category: 'Frontend',
+    img: './images/8piano.png',
+    desc: 'JS',
+    link: 'https://qaz-creator.github.io/simplePiano',
+    github: 'https://github.com/qaz-creator/simplePiano',
+  },
+  {
+    id: 9,
+    title: 'Dream List',
+    category: 'Frontend-React',
+    img: './images/9dream.png',
+    desc: 'React',
+    link: 'https://dev-cm-svg.github.io/dreamsTracker/',
+    github: 'https://github.com/dev-cm-svg/dreamsTracker',
+  },
 ]
 
 const sectionCenter = document.querySelector('.section-center')
