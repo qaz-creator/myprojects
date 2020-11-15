@@ -155,6 +155,15 @@ const menu = [
     link: 'https://dev-cm-svg.github.io/dreamsTracker/',
     github: 'https://github.com/dev-cm-svg/dreamsTracker',
   },
+  {
+    id: 10,
+    title:'Switch Clock',
+    category:'Frontend',
+    img:'./images/10clock.png',
+    desc:'JS',
+    link:'https://qaz-creator.github.io/switchClock/',
+    github:'https://github.com/qaz-creator/switchClock'
+  }
 ]
 
 const sectionCenter = document.querySelector('.section-center')
