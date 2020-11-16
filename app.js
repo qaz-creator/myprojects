@@ -164,6 +164,15 @@ const menu = [
     link: 'https://qaz-creator.github.io/switchClock/',
     github: 'https://github.com/qaz-creator/switchClock',
   },
+  {
+    id: 11,
+    title: 'Change CSS Variables',
+    category: 'Frontend',
+    img: './images/11.png',
+    desc: 'JS',
+    link: 'https://qaz-creator.github.io/changCSSvariables/',
+    github: 'https://github.com/qaz-creator/changCSSvariables',
+  },
 ]
 
 const sectionCenter = document.querySelector('.section-center')
