@@ -173,6 +173,15 @@ const menu = [
     link: 'https://qaz-creator.github.io/changCSSvariables/',
     github: 'https://github.com/qaz-creator/changCSSvariables',
   },
+  {
+    id: 12,
+    title: 'Flex Panel Gallery',
+    category: 'Frontend',
+    img: './images/12Flex.png',
+    desc: 'JS',
+    link: 'https://qaz-creator.github.io/flexPanelGallery/',
+    github: 'https://github.com/qaz-creator/flexPanelGallery',
+  },
 ]
 
 const sectionCenter = document.querySelector('.section-center')
