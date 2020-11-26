@@ -356,11 +356,11 @@ h4 {
 .title span {
   color: var(--clr-secondary);
 }
-#about,
+/* #about,
 #services,
 #tours {
   min-height: 100vh;
-}
+} */
 #services {
   background: var(--clr-white);
 }

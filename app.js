@@ -182,6 +182,16 @@ const menu = [
     link: 'https://qaz-creator.github.io/flexPanelGallery/',
     github: 'https://github.com/qaz-creator/flexPanelGallery',
   },
+
+   {
+    id: 13,
+    title: 'In Time Messenger',
+    category: 'Full Stack',
+    img: './images/13.png',
+    desc: 'Firebase React',
+    link: '  https://chatapp-fcf70.web.app/',
+    github: 'https://github.com/qaz-creator/InTimeMessenger',
+  },
 ]
 
 const sectionCenter = document.querySelector('.section-center')
