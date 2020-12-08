@@ -183,7 +183,7 @@ const menu = [
     github: 'https://github.com/qaz-creator/flexPanelGallery',
   },
 
-   {
+  {
     id: 13,
     title: 'In Time Messenger',
     category: 'Full Stack',
@@ -191,6 +191,15 @@ const menu = [
     desc: 'Firebase React',
     link: '  https://chatapp-fcf70.web.app/',
     github: 'https://github.com/qaz-creator/InTimeMessenger',
+  },
+  {
+    id: 14,
+    title: 'Amazon Clone',
+    category: 'Full Stack',
+    img: './images/14.png',
+    desc: 'Firebase React',
+    link: 'https://fir-186e6.web.app/',
+    github: 'https://github.com/qaz-creator/amazonCommerce',
   },
 ]
 
