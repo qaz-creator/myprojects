@@ -366,11 +366,11 @@ h4 {
 .title span {
   color: var(--clr-secondary);
 }
-/* #about,
+#about,
 #services,
 #tours {
   min-height: 100vh;
-} */
+}
 #services {
   background: var(--clr-white);
 }
@@ -489,8 +489,9 @@ footer p {
   /* margin-top: 20px; */
   margin-top: 15%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: ; */
 }
 
 /*************** contact ***************/

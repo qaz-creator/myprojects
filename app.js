@@ -201,6 +201,14 @@ const menu = [
     link: 'https://fir-186e6.web.app/',
     github: 'https://github.com/qaz-creator/amazonCommerce',
   },
+{
+    id: 15,
+    title: 'Astrology & Tarot',
+    category: 'Wordpress',
+    img: './images/15.png',
+    desc: 'Wordpress Blog',
+    link: 'http://blogastrology.unaux.com/?i=1',
+  },
 ]
 
 const sectionCenter = document.querySelector('.section-center')
